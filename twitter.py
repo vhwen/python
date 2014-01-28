@@ -9,8 +9,8 @@ query = "elonmusk"
 # Obtain the consumer key and consumer secret from https://dev.twitter.com/apps 
 # and register for an application
 
-APP_KEY = 'jYTi5z6873q4t9g9RB3r9Q'
-APP_SECRET = 'PgzA3ntCtdd0wH6BQ3qqZMjMUkAlXn1A8sn2TKoU4'
+APP_KEY = 'KEY'
+APP_SECRET = 'SECRET'
 
 twitter = Twython(APP_KEY, APP_SECRET)
 
